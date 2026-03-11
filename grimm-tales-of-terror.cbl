@@ -213,7 +213,7 @@
 <Book Series="Grimm Tales of Terror Quarterly: Rise of Cthulhu" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="145370" Issue="949664" />
 </Book>
-<Book Series="Grimm Tales of Terror Quarterly: 2022 Holiday" Number="1" Volume="2022" Year="2022">
+<Book Series="Grimm Tales of Terror Quarterly: 2022 Holiday Special" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="147104" Issue="961769" />
 </Book>
 <Book Series="Grimm Tales of Terror Quarterly: 2023 Valentine's Day Special" Number="1" Volume="2023" Year="2023">
