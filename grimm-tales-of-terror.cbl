@@ -120,7 +120,7 @@
 <Book Series="Grimm Tales of Terror" Number="11" Volume="3" Year="2017">
 <Database Name="cv" Series="98336" Issue="648016" />
 </Book>
-<Book Series="Grimm Tales of Terror Black & White Special Edition" Number="1" Volume="2018" Year="2018">
+<Book Series="Grimm Tales of Terror Black and White Special Edition" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="108250" Issue="656755" />
 </Book>
 <Book Series="Grimm Tales of Terror" Number="12" Volume="3" Year="2018">
