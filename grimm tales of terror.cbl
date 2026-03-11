@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>Grimm Tales of Terror</Name>
-<NumIssues>26</NumIssues>
+<NumIssues>88</NumIssues>
 <Books>
 <Book Series="Grimm Tales of Terror" Number="1" Volume="1" Year="2014">
 <Database Name="cv" Series="76097" Issue="461029" />
@@ -265,7 +265,7 @@
 <Database Name="cv" Series="162017" Issue="1153123" />
 </Book>
 <Book Series="Grimm Tales of Terror" Number="13" Volume="5" Year="2026">
-<Database Name="cv" Series="162017" Issue="" />
+<Database Name="cv" Series="162017" Issue="1153124" />
 </Book>
 </Books>
 <Matchers />
